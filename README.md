@@ -1,4 +1,6 @@
-# DATA-226 Homework 5: Porting Homework #4 to Airflow
+# DATA-226 Homework 5: Porting Homework #5 to Airflow
+
+All tasks use the @task decorator with proper dependencies and configurations.
 
 ## 📋 Overview
 This project ports Homework #4 into an Airflow DAG that:
